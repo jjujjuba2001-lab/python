@@ -24,8 +24,7 @@ from openpyxl.drawing.image import Image            # 엑셀에 이미지 삽입
 from PIL import Image as PILImage
 
 id = ['hwjung@inzisoft.com']                  # 테스트 계정 id
-pw = ['nara0805~!']                                      # 테스트 계정 pw
-lable = ['기획,경영지원,근태관리(라한솔)']         # 권한별 계정 리스트에 담기
+pw = ['test1234']                           # 테스트 계정 pw
 
 '''driver = webdriver.Chrome()
 Options = Options()
